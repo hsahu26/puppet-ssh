@@ -1,0 +1,18 @@
+{
+  "name": "harish-ssh",
+  "version": "0.1.0",
+  "author": "Harish Sahu",
+  "summary": "will manage ssh conf across all linux estate",
+  "license": "Apache-2.0",
+  "source": "https://github.com/hsahu26/puppet-ssh",
+  "project_page": "https://github.com/hsahu26/puppet-ssh",
+  "issues_url": "https://github.com/hsahu26/puppet-ssh/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
